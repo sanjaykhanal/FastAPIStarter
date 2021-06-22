@@ -1,0 +1,11 @@
+*.png
+*.log
+.history/
+.git/
+__pycache__/
+.__pycache__/
+*.db
+logs/
+scopes.json
+routes.json
+route_scopes.json
